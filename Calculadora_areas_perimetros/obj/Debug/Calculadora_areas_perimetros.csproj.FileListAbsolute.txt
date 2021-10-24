@@ -1,0 +1,7 @@
+C:\Users\aleja\OneDrive\Documentos\Visual Studio 2019\VisualStudioCodigos\Calculadora_areas_perimetros\Calculadora_areas_perimetros\bin\Debug\Calculadora_areas_perimetros.exe.config
+C:\Users\aleja\OneDrive\Documentos\Visual Studio 2019\VisualStudioCodigos\Calculadora_areas_perimetros\Calculadora_areas_perimetros\bin\Debug\Calculadora_areas_perimetros.exe
+C:\Users\aleja\OneDrive\Documentos\Visual Studio 2019\VisualStudioCodigos\Calculadora_areas_perimetros\Calculadora_areas_perimetros\bin\Debug\Calculadora_areas_perimetros.pdb
+C:\Users\aleja\OneDrive\Documentos\Visual Studio 2019\VisualStudioCodigos\Calculadora_areas_perimetros\Calculadora_areas_perimetros\obj\Debug\Calculadora_areas_perimetros.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Documentos\Visual Studio 2019\VisualStudioCodigos\Calculadora_areas_perimetros\Calculadora_areas_perimetros\obj\Debug\Calculadora_areas_perimetros.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Visual Studio 2019\VisualStudioCodigos\Calculadora_areas_perimetros\Calculadora_areas_perimetros\obj\Debug\Calculadora_areas_perimetros.exe
+C:\Users\aleja\OneDrive\Documentos\Visual Studio 2019\VisualStudioCodigos\Calculadora_areas_perimetros\Calculadora_areas_perimetros\obj\Debug\Calculadora_areas_perimetros.pdb
